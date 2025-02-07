@@ -17,7 +17,6 @@
 
 #### 🎨 Design
  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
- ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ### 📊 GitHub Stats:
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabiipellense&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
